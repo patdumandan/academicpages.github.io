@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Patricia Kaye T. Dumandan"
+  name             : Patricia Kaye T. Dumandan
   avatar           : "profile.png"
-  bio              : "PhD student, Interdisciplinary Ecology"
-  location         : "Gainesville, FL"
+  bio              : PhD student, Interdisciplinary Ecology
+  location         : Gainesville, FL
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "pdumandan@ufl.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : pdumandan@ufl.edu
+  researchgate     : https://www.researchgate.net/profile/Patricia-Dumandan
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "patdumandan.github.io"
+  github           : github.com/patdumandan
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : https://orcid.org/0000-0003-3360-1534
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
